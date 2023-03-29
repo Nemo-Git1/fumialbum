@@ -5,3 +5,4 @@
 
 ## 보존된 푸치 프로필 목록
 * [fumiyoshinochieri](etc/puchi/fumiyoshinochieri)
+* [uzuki_miho_kotoka](etc/puchi/uzuki_miho_kotoka)
